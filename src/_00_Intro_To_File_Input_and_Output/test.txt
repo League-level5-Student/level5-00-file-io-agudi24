@@ -1,4 +1,2 @@
-This is a test file.
-It contains multiple lines of text.
-File IO in Java is fun!
-Working with files is useful and easy.
+
+This is me writing a message
