@@ -3,7 +3,7 @@ package _04_Serialization;
 /*
  * Complete this class so that it can be serialized.
  */
-public class SaveData {
+public class SaveData implements java.io.Serializable {
 	public final String name;
 	public final int age;
 
